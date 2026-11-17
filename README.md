@@ -1,3 +1,5 @@
+![QuinWilde banner](banner.jpg)
+
 # QuinWilde
 
 Builder working with **madepaker**, my personal AI agent
